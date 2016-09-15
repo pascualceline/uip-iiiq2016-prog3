@@ -1,0 +1,20 @@
+Celine Castro  8-907-156
+
+Apache License
+
+La licencia Apache  es una licencia de software libre permisiva creada por la Apache Software Foundation (ASF).
+requiere la conservación del aviso de derecho de autor y el descargo de responsabilidad, pero no es una licencia copyleft, 
+ya que no requiere la redistribución del código fuente cuando se distribuyen versiones modificadas.
+Al igual que otras licencias de software libre, todo el software producido por la ASF o cualquiera de sus proyectos está
+desarrollado bajo los términos de esta licencia, es decir, la licencia permite al usuario del software de la libertad de 
+usar el software para cualquier propósito, para distribuirlo, modificarlo y distribuir versiones modificadas del software, 
+bajo los términos de la licencia, sin preocuparse de las regalías.
+
+Versiones:
+-versión 1.1: fue aprobada por la ASF en el año 2000: El cambio principal de la licencia 1.0 se encuentra 
+en la 'cláusula de publicidad' (sección 3 de la licencia 1.0); los productos derivados ya no son necesarios para 
+incluir la atribución en sus materiales de publicidad, pero sólo en su documentación.
+-versión 2.0: Entre los objetivos declarados de la licencia se incluyen: hacer más fácil para proyectos que no son ASF 
+que la utilicen, la mejora de la compatibilidad con software basado en GPL, permitiendo que la licencia sea incluida por 
+referencia en lugar de la lista de cada archivo (o todos los archivos), aclarando la licencia en cuanto a sus contribuciones, 
+y que requiere una licencia de patente sobre las contribuciones que necesariamente infrinjan patentes propias de un contribuyente.
